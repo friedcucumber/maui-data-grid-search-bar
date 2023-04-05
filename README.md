@@ -4,7 +4,7 @@
 
 This example shows how to implement a [Data Grid](https://docs.devexpress.com/MAUI/403255/data-grid/data-grid) search. The search bar is placed into the page's [toolbar area](https://learn.microsoft.com/en-us/dotnet/api/microsoft.maui.controls.toolbaritem).
 
-<img width="50%" src="https://user-images.githubusercontent.com/12169834/223110944-4904bf34-da91-4685-9656-fb7e09905d42.png"/>
+<img width="30%" src="https://user-images.githubusercontent.com/12169834/230120654-1b2536ff-757a-499b-873b-5eb5d13b47ad.png"/>
 
 ## Implementation Details
 

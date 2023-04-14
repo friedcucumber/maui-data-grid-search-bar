@@ -8,9 +8,9 @@ This example demonstrates how to place a [Data Grid](https://docs.devexpress.com
 
 ## Implementation Details
 
-* The [TextEdit](https://docs.devexpress.com/MAUI/DevExpress.Maui.Editors.TextEdit) control is placed in the title bar. You can specify the [EndIcon](https://docs.devexpress.com/MAUI/DevExpress.Maui.Editors.EditBase.ErrorIcon) property to define the right icon. 
+* The [TextEdit](https://docs.devexpress.com/MAUI/DevExpress.Maui.Editors.TextEdit) control is placed in the title bar. You can specify the [EndIcon](https://docs.devexpress.com/MAUI/DevExpress.Maui.Editors.EditBase.EndIcon) property to define the icon on the right. 
 * Specify the [PlaceholderText](https://docs.devexpress.com/MAUI/DevExpress.Maui.Editors.EditBase.PlaceholderText) property to define TextEdit's placeholder text. Define the [PlaceholderColor](https://docs.devexpress.com/MAUI/DevExpress.Maui.Editors.EditBase.PlaceholderColor) property to specify the color of placeholder text.
-* You can use the [ClearIconColor](https://docs.devexpress.com/MAUI/DevExpress.Maui.Editors.EditBase.ClearIconColor) property to define a color of TextEdit's clear icon.
+* You can use the [ClearIconColor](https://docs.devexpress.com/MAUI/DevExpress.Maui.Editors.EditBase.ClearIconColor) property to define the color of TextEdit's clear icon.
 In a [TextChanged](https://docs.devexpress.com/MAUI/DevExpress.Maui.Editors.TextEditBase.TextChanged) event handler, you can define a query parameter and assign it to the [DataGridView.FilterString](https://docs.devexpress.com/MAUI/DevExpress.Maui.DataGrid.DataGridView.FilterString) property. Refer to the following topic for more information on the filter criteria syntax: [Criteria Language Syntax](https://docs.devexpress.com/CoreLibraries/4928/devexpress-data-library/criteria-language-syntax).
 
 
